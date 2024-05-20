@@ -8,4 +8,4 @@ Olá! Me chamo Samuel Augusto, também conhecido como Dev-Sams1012. Sou estudant
 
 
 # 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
