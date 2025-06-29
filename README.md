@@ -1,6 +1,41 @@
-# 💫 Samuel is my name.
-Sou estudante do primeiro semestre de Ciência da Computação pela UFC (Universidade Federal do Ceará) 🎓. Minha principal linguagem de programação é o Python 🐍, e atualmente estou explorando e aprendendo mais sobre essa linguagem incrível.<br><br>Embora ainda seja um iniciante, tenho trabalhado em alguns projetos básicos que estão disponíveis nos meus repositórios do GitHub. Um desses projetos é um bot em Python que estou desenvolvendo no momento, do qual tenho muito orgulho 🚀.<br><br>Fora do mundo da programação, tenho interesse em tecnologia em geral e sou apaixonado por rock 🎸. Estou sempre em busca de conhecimento e novos desafios para aprimorar minhas habilidades como desenvolvedor.<br><br>Se quiser saber mais sobre mim ou meu trabalho, fique à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades de aprendizado! 🌱
+# Samuel Augusto 👨‍💻🎮
 
+👋 Olá! Eu sou o **Samuel Augusto**, estudante de Ciência da Computação na UFC 🎓.
+
+## Sobre mim 🤓
+
+- 🌍 Natural de Fortaleza-CE e atualmente morando em Eusébio.
+- 💻 Apaixonado por tecnologia, programação e games clássicos.
+- 🕹️ Curto emuladores para videogames antigos, como Super Nintendo e fliperama.
+- 🚀 Sempre buscando aprender mais e explorar diferentes áreas da computação.
+
+## O que você encontra aqui 📂
+
+- 🐍 Projetos em **C**, **Python** e **Java**, focados em lógica de programação, automação e desenvolvimento de aplicações.
+- ⚙️ Scripts e soluções para problemas práticos do dia a dia e acadêmicos.
+- 📚 Material didático e análises de temas relacionados à programação e computação.
+- 📝 Códigos comentados para facilitar o entendimento e o aprendizado.
+
+## Skills e Tecnologias 🛠️
+
+- 💻 Linguagens: **C**, **Python**, **Java**
+- 🧠 Conceitos: lógica de programação, automação, desenvolvimento de aplicações básicas
+- 🐙 Ferramentas: Git, Linux, EclipseIDE, VSCode
+- 🎯 Áreas de interesse: Ciência da Computação, jogos virtuais, tecnologia e automação
+
+---
+
+## Como usar este repositório 📁
+
+- 🔍 Explore os diretórios por linguagem e tema.
+- 📄 Cada projeto pode conter um README explicando seu funcionamento.
+- 🗣️ Fique à vontade para abrir issues ou pull requests com sugestões ou dúvidas.
+
+---
+
+Obrigado pela visita! 🙏🚀
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuel.au.ab) 
