@@ -78,19 +78,11 @@ PID   PROCESS              STATUS     PROGRESS
 ## `$ ping me --all-interfaces`
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/samuel-augusto-de-abreu-74a1442a0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://gitlab.com/Dev-Sams1012" target="_blank">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="38" alt="GitLab"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/samuel.au.ab" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/samuel-augusto-de-abreu-74a1442a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.5" height="42" alt="linkedin logo" /></a>
+  &nbsp;
+  <a href="https://gitlab.com/Dev-Sams1012" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&scale=1.5" height="42" alt="gitlab logo" /></a>
+  &nbsp;
+  <a href="https://instagram.com/samuel.au.ab" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&scale=1.5" height="42" alt="instagram logo" /></a>
 </div>
 
 ---
