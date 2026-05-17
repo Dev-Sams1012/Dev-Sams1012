@@ -1,26 +1,72 @@
-# Olá! 👋
+# Hello everyone! 👋
 
-Meu nome é **Samuel Augusto**, estudante de Ciência da Computação na UFC 🎓.
+I'm **Samuel Augusto**, a Computer Science undergraduate at the Federal University of Ceará (UFC). 🎓
 
----
+**C++ Developer** at **LSBD** (Laboratory of Systems and Databases). 💻
 
-## Skills e Tecnologias 🛠️
+📖 **Currently studying:** Spring Boot 🚀
 
-- 💻 Linguagens: **C**, **C++**, **Python** e **Java**
-- 🐙 Ferramentas: Git, Linux, EclipseIDE, VSCode
-- 🎯 Áreas de interesse: Algoritmos e Estruturas de Dados
+###
 
----
+<br clear="both">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuel.au.ab) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-augusto-de-abreu-74a1442a0/)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" alt="linux logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50" alt="intellij logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="git logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="50" alt="c logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" height="50" alt="cmake logo" />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo" />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="spring logo" />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=mssql" height="50" alt="microsoftsqlserver logo" />
+</div>
 
+###
 
-## 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=plastic&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
-[![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)](https://www.latex-project.org/)
+<br clear="both">
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/samuel-augusto-de-abreu-74a1442a0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://gitlab.com/Dev-Sams1012" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=plastic" height="30" alt="gitlab logo"  />
+  </a>
+  <a href="https://instagram.com/samuel.au.ab" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dev-Sams1012/Dev-Sams1012/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Dev-Sams1012/Dev-Sams1012/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Sams1012/Dev-Sams1012/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Sams1012/Dev-Sams1012/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dev-Sams1012/Dev-Sams1012/pacman-output/breakout-contribution-graph.svg">
+</picture>
+
+###
