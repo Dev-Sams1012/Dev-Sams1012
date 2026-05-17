@@ -56,12 +56,7 @@
 ## `$ git log --oneline --graph`
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Dev-Sams1012&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sams1012&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Sams1012&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Dev-Sams1012&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 ---
